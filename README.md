@@ -23,3 +23,9 @@ For now I want to grow as a cybersecurity professional through home projects, le
 
 - (In progress)
 
+---
+
+## Projects
+
+- Honeypot
+
