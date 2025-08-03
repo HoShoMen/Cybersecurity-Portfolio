@@ -27,5 +27,5 @@ For now I want to grow as a cybersecurity professional through home projects, le
 
 ## Projects
 
-- Honeypot
+- <a href="https://github.com/HoShoMen/Honeypot">Honeypot</a>
 
