@@ -1,7 +1,7 @@
 # Cybersecurity-Portfolio
 
 
-Hello friend 👋🏻, welcome to my personal cybersecurity portfolio
+Hello friend 👋🏻, welcome to my personal cybersecurity portfolio.
 
 This repository documents my hands-on projects, scripts, and experiments as I build my skills and knowledge in cybersecurity.  
 
